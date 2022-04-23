@@ -1,0 +1,4 @@
+Apellido y nombre: Ibañez Rodrigo
+Edad: 21
+Ocupacion: estudiante
+Conocimientos: java intermedio e ingles intermedio
